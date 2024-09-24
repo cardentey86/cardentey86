@@ -11,7 +11,7 @@ I'm a **full stack** developer passionate about creating high-quality applicatio
 
 ## 💼 Experience  
 
-- **Center for Molecular Immunology** (Cuban biopharmaceutical industry) > 5 years  
+- **Center of Molecular Immunology** (Cuban biopharmaceutical industry) > 5 years  
   - Developed web and Windows Forms applications using DevExpress.  
 
 - **Foreign Company Based in the USA** > 1 year  
